@@ -1,0 +1,14 @@
+{
+  "cols": [
+        {"id":"","label":"T","pattern":"Calls","type":"string"},
+        {"id":"","label":"Happiness","pattern":"","type":"number"},
+		{"id":"","label":"Sadness","pattern":"","type":"number"}
+      ],
+  "rows": [
+        {"c":[{"v":"1","f":null},{"v":0.61,"f":null},{"v":0.34,"f":null}]},
+        {"c":[{"v":"2","f":null},{"v":0.71,"f":null},{"v":0.5,"f":null}]},
+        {"c":[{"v":"3","f":null},{"v":0.1,"f":null},{"v":0.3,"f":null}]},
+        {"c":[{"v":"4","f":null},{"v":0.99,"f":null},{"v":0.2,"f":null}]},
+        {"c":[{"v":"5","f":null},{"v":0.35,"f":null},{"v":0.7,"f":null}]}
+      ]
+}

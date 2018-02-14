@@ -1,0 +1,22 @@
+echo ('{
+  "cols": [
+        {"id":"","label":"T","pattern":"Calls","type":"string"},
+        {"id":"","label":"Happiness","pattern":"","type":"number"}
+      ],
+      "rows": [');
+					while($row = $result->fetch_assoc()){
+
+					$wordset = $row['wordset'];
+					//$tone = 0;
+					$string = json_decode($wordset, true);
+                    foreach ($string as $item){
+                        //$tone = $tone + 1;
+                        $score = $item["score"];
+                        $tone = $item["tone_name"];
+                        echo('{"c":[{"v": "'.$tone.'" ,"f":null},{"v": '.$score.',"f":null}]},');
+                    }
+                        echo('{"c":[{"v": "'.$tone.'" ,"f":null},{"v": '.$score.',"f":null}]}');
+                    echo("]}");
+
+					
+					}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "codeshastra-project",
+  "private_key_id": "1050ca71a7941f88ec290f4c5722b01377d8c447",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCs+4FAslg4ftcU\n8z+PSlTvmGvKL26MOhWDnibwrqtIh7MFtEtbNB00XiIlsVgBC79YWFGtgdPKb1/4\nlJJBVk83XZuUmj1XHg2S5UjwQJeoFtPPZHHEt5aEMVbmKfhI+dMCPd7w8KDzJXLt\ne75Ya74BZIrhj8OsHcfG5C7F3xSsmkU4TrcB9lr+F5VKaf5ZJIkYOuRhogH5o0Jt\nvprRt+zDLKK9cYni0eWRvPGCk4KzzQ2DE2TihapTBXxHhV+2U3oYpCDu5BUNnE7Y\nusUEWUgNl3kTre9YVMyn0JIxpWWu3HcXWSFR8sgODVXSOZPAGo1wcKQiJCtSzMOy\nV/q7fEBbAgMBAAECggEAB7sh1rNhz/yTPkN01sGatC6auqmOBkReS8iYsu8Lhq1R\n6fJZ39SfbYS7f/XCGiHdRmSEGf4Qah66KlDxjGwAFFhhqK2QCkG0l5kZvmsUnBWR\nF9bEYudVmcjeumCr0Q8hSBtdyGTovJUy4rxCEI+YKVXGAzi6pQmbsR7nnD5RHTmh\nCB11H/9NG8SU1XeVYcyklCt8uxdbHJDKL2oRIdLLQqSMGwVZ/FS4Hs9eXE2bSdlk\nW2ctDgjp0KUQ00yipekdJmBDuqE+Y2iPkrxWKNLIHwJsk6sxtr08INMaFrUCLF5z\nTm2zSjjqXfOyxJcwXF5ozcuKUh6jAgt7WeXZSDzUuQKBgQDWblKJrsYy2ABw2ojH\nlrIng1pLPQX5+Xvdsnuf12HvWdTeTmxY1ootQmL0JVPyJRp3HiHLLcyr+7MePwGk\nYXBKGGYn8KZF5wGZcyaeroLt/Lj9a3n4jzT6uCrwm767jtpELsO/iwhy6FSfuajm\nEtIwryYKUTWBItGHtjr1Lo8bZQKBgQDOhDIVP+wmIewWiTCWhL0qAqX102fVqfv5\n/vndW7VAJfkLtDPdFSIvZHXEwa0HCNNuu1ZsEFKSWd3oLwS90YsUxrIIePS9Wenl\ncR+m+hINWGdNlpFc9tcGol0YYaBRB5GnVp8yD/chEUOHqQtOtbF93Mr76SV0YC80\nLEEaWDaQvwKBgQCiE8FPUEt/IsUyh/va4IzIUQBu3jEmQOzfJYlLyAC+aaf8YEqE\n26SVkRg6cfyBion2f1ALwxJw7E73DaiwFvZJCygsCDmlnHYZBnCqgD12pQ8ufY4z\n0gq5d3r9YrtICTHxV2ed3/kC4ZkVIcAIJzG4mqqmIbvPYAIAEj1+FTMWAQKBgGoh\nZdulziaKqFmsh1vTO6OrWL7MtkAH64a+koo/5xXgbeyl30Fu6vKQHjXPkqxazM3L\nWM6QVN8BcBkykK08Us2Kj1PrVVs6KgnP6QRW35AcLnqhNnMgJ8ExD8bH5Su/SAtH\naOjBa6+Cv8GoDjeVCHI2VdrAJo94HsohNBPl4aThAoGAVl3TNpApkMYobODm8khD\nMjXqMzye4fT/gxBGONJqHzZBI0EFayNrLAVfMdGuyOwxHke4iw9IdFql5R2Yrntj\n9Vlz05NtM4VUOMjBhq3RCPZ7YxhHEmj1ahWa9Wa+1m2bdFKHh3dFT+v38Kd8Gm9s\nfYRXY6GDpZnogRss8Zu3LUw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "milind@codeshastra-project.iam.gserviceaccount.com",
+  "client_id": "102829532617169557381",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/milind%40codeshastra-project.iam.gserviceaccount.com"
+}

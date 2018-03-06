@@ -1,4 +1,4 @@
-We, at Pythrons have an up and running project, which we have lovingly named Callshastra. The various highlights regarding our project are:
+Callshastra is a web-based call centre application made by Pythrons. The various highlights regarding our project are:
 
 •	Sentiment analysis to judge the customer’s mood
 
@@ -10,4 +10,10 @@ We, at Pythrons have an up and running project, which we have lovingly named Cal
 
 •	An incentive based scoring system for all the employees, which is based around the change in customer satisfaction, before and after the call. This helps improve efficiency.
 
+
+Pythrons consists of:
+-Viral Tagdiwala
+-Milind Shah
+-Pratik Mulchandani
+-Keval Nagda
 

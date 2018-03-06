@@ -1,4 +1,4 @@
-Callshastra is a web-based call centre application made by Pythrons. The various highlights regarding our project are:
+Callshastra is a web-based call center application made by Pythrons. The various highlights regarding our project are:
 
 •	Sentiment analysis to judge the customer’s mood
 

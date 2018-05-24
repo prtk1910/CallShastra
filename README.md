@@ -17,3 +17,7 @@ Pythrons consists of:
 -Pratik Mulchandani
 -Keval Nagda
 
+<p align="center">
+  <img src="Screenshot (8).png"/>
+  <img src="Screenshot (7).png"/>
+</p>

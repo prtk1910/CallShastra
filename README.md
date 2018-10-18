@@ -10,8 +10,7 @@ Callshastra is a web-based call center application made by Pythrons. The various
 
 •	An incentive based scoring system for all the employees, which is based around the change in customer satisfaction, before and after the call. This helps improve efficiency.
 
-
-Pythrons consists of:
+Pythronz consists of:
 -Viral Tagdiwala
 -Milind Shah
 -Pratik Mulchandani

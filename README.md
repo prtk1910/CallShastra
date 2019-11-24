@@ -10,10 +10,26 @@ Callshastra is a web-based call center application made by Pythrons. The various
 
 •	An incentive based scoring system for all the employees, which is based around the change in customer satisfaction, before and after the call. This helps improve efficiency.
 
-
-Pythrons consists of:
+Pythronz consists of:
 -Viral Tagdiwala
 -Milind Shah
 -Pratik Mulchandani
 -Keval Nagda
 
+<p align="center">
+  <img src="Screenshot (8).png"/>
+  <img src="Screenshot (7).png"/>
+</p>
+
+### Installation guidelines
+Step 1 - Download the following
+
+https://www.apachefriends.org/download.html - XAMPP for PHP, MySQL  - download this
+
+https://www.metabase.com/start/jar.html - Download this jar file
+
+Install xampp
+Execute xampp, mysql
+Run metabase jar file. Run this command in the command line (navigate the command line to the folder where you downloaded the jar file) java -jar metabase.jar
+Place the repository into C:/xampp/htdocs
+Type localhost/politics/index.php in the browser
